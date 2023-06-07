@@ -26,7 +26,7 @@ Temos uma tela de autenticação para acesso ao painel administrativo onde utili
   <img alt="logo" title="#logo" src="./git/dashboard.png" />
 </h1>
 
-O projeto está em produção e este é o link para a aplicação [Dashboard](https://starfish-app-wyn79.ondigitalocean.app/). Caso queira acesso temporário a aplicação entre em [contato](https://mocad.dev/#contato).
+O projeto está em produção e este é o link para a aplicação [Dashboard](https://starfish-app-wyn79.ondigitalocean.app/).
 
 Caso queira acesso à aplicação com níveis diferentes de usuário entre em contato comigo através do email **raphael@mocad.dev** ou utilize o formulário que se encontra no final da pagina principal do meu site [Mocad.dev](https://mocad.dev/#contato).
 
