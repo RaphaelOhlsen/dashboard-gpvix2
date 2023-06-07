@@ -9,7 +9,7 @@ Este projeto é um painel administrativo de uma aplicação Web onde cadastramos
 - **Pessoas:** Onde cadastramos os clientes com Nome, email e Cidade. Este último campo está relacionado com as cidades cadastradas.
 - **Cidades:** Onde cadastramos as cidades.
 
-Aplicação desenvolvida para consolidar meus estudos sobre React, Material UI, chamadas API. Importante pontuar desde já que este projeto Front-End faz parte de uma solução integrada a um Back-End chamado [API GPVIX](https://github.com/RaphaelOhlsen/api-gpvix). Se houver interesse na solução completa aconselho a iniciar a implementação de sua solução com a implementação do Back-End. Instruções serão fornecidas abaixo para integrar este Front-End com o Back-End.
+Aplicação desenvolvida para consolidar meus estudos sobre React, Material UI, chamadas API. Importante pontuar desde já que este projeto Front-End faz parte de uma solução integrada a um Back-End chamado [API GPVIX](https://github.com/RaphaelOhlsen/api-gpvix2). Se houver interesse na solução completa aconselho a iniciar a implementação de sua solução com a implementação do Back-End. Instruções serão fornecidas abaixo para integrar este Front-End com o Back-End.
 
 
 <p align="justify">
