@@ -67,7 +67,7 @@ $ yarn start
 ---
 <a id="-autor"></a>
 ## 👨‍💻 Autor
-Olá, meu nome é Raphael Ohlsen, Engenheiro de Telecomunicações | BackEnd e FrontEnd Developer. Em transição de carreira de Telecom para Developer que é minha verdadeira paixão. Sou aficcionado por tecnologia, programação, processos e planejamento. Dúvidas, sugestões e críticas são super bem vindas. Seguem meus contatos.
+Olá, meu nome é Raphael Ohlsen, Engenheiro de Telecomunicações | BackEnd e FrontEnd Developer. Em transição de carreira de Telecom para Developer que é minha verdadeira paixão. Sou aficcionado por tecnologia e programação. Dúvidas, sugestões e críticas são super bem vindas. Seguem meus contatos.
 
 - [www.mocad.dev](https://mocad.dev)
 - [raphael@mocad.dev](raphael@mocad.dev)
